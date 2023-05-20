@@ -27,6 +27,11 @@ g. Shares of stock in another corporation; and/or
 h. Other generally accepted form of consideration.
 
 ### 5. Issue price or Par value
+- Issued value or nominal or original value, determined by the total capitalization divided by number of shares
+- Nothing to do with actual value
+- Declared in AOI
+- Requirement before - 25% of subscription needs to be paid;
+- Requirement now: 25%-25%-25% requirement moved to increase of capital
 ### 6. Liability of Directores for Watered Stocks (Sec 64)
 - Watered stocks are stocks that are issued for a consideration less than the par or issued price thereof
 
