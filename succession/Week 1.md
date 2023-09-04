@@ -1,3 +1,5 @@
+# General Provisions
+
 ## Definition/What is transmitted
 Art. 774 - Succession is a **mode of acquisition** by virtue of which 
 
@@ -34,3 +36,28 @@ Succession may be
     b. by operation of law
 2. devisees - recipient of real property gifts
 3. Legatees - recipient of personal property gifts
+
+
+# Legitime
+## Definition
+1. `legitime` - part of the testator's property which he cannot dispose of because the *law has reserved it for certain heirs* who are, therefore, called **compulsory heirs**. (Art. 886)
+
+2. `compulsory heirs` - the following are compulsory heirs (Art. 887)  
+    (a) Legitimate children and descendants, with respect to their legitimate parents and ascendants;
+
+    (b) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
+
+    (c) The widow or widower;
+
+    (d) Acknowledged natural children, and natural children by legal fiction;
+
+    (e) Other illegitimate children referred to in Article 287
+
+    ```NOTE:``` 
+    - Compulsory heirs mentioned in Nos. 3, 4, and 5 are not excluded by those in Nos. 1 and 2; neither do they exclude one another.
+    - In all cases of illegitimate children, their **filiation** must be duly proved.
+    - The father or mother of illegitimate children of the three classes mentioned, shall inherit from them in the manner and to the extent established by this Code.
+
+
+
+
